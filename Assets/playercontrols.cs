@@ -32,11 +32,11 @@ public class playercontrols : MonoBehaviour {
     {
         if (Input.GetKey(KeyCode.RightArrow))
         {
-            xspeed = 5;
+            xspeed = 3;
         }
         else if (Input.GetKey(KeyCode.LeftArrow))
         {
-            xspeed = -5;
+            xspeed = -3;
         }
         else
         {
