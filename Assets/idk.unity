@@ -312,7 +312,7 @@ Camera:
   far clip plane: 5000
   field of view: 40
   orthographic: 1
-  orthographic size: 10
+  orthographic size: 2
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -335,7 +335,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 104920697}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -11.100661, y: 0, z: -10}
+  m_LocalPosition: {x: -12.092133, y: -1.1200001, z: -10}
   m_LocalScale: {x: 3.9537776, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -997,8 +997,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ad980451443d70438faac0bc6c235a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_LookaheadTime: 0.158
-  m_LookaheadSmoothing: 20
+  m_LookaheadTime: 0.348
+  m_LookaheadSmoothing: 9.7
   m_LookaheadIgnoreY: 1
   m_XDamping: 3.94
   m_YDamping: 3.11
@@ -1009,11 +1009,11 @@ MonoBehaviour:
   m_DeadZoneWidth: 0.092
   m_DeadZoneHeight: 0.165
   m_DeadZoneDepth: 0
-  m_UnlimitedSoftZone: 0
-  m_SoftZoneWidth: 0.487
+  m_UnlimitedSoftZone: 1
+  m_SoftZoneWidth: 0.099
   m_SoftZoneHeight: 0.165
   m_BiasX: 0
-  m_BiasY: 0.186
+  m_BiasY: 0
   m_CenterOnActivate: 0
   m_GroupFramingMode: 2
   m_AdjustmentMode: 2
@@ -1574,7 +1574,7 @@ MonoBehaviour:
   m_Follow: {fileID: 1988697264}
   m_Lens:
     FieldOfView: 40
-    OrthographicSize: 10
+    OrthographicSize: 2
     NearClipPlane: 0.1
     FarClipPlane: 5000
     Dutch: 0
@@ -1596,7 +1596,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1676735618}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -11.100661, y: 0, z: -10}
+  m_LocalPosition: {x: -12.092133, y: -1.1200001, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 969534091}
@@ -1832,7 +1832,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 5
+  m_GravityScale: 3
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -1967,6 +1967,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 256
   jumpforce: 10
+  jumpTime: 0.35
 --- !u!114 &1988697268
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1984,6 +1985,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 256
   jumpforce: 10
+  jumpTime: 0
 --- !u!95 &1988697269
 Animator:
   serializedVersion: 3

@@ -12,8 +12,9 @@ public class playercontrols : MonoBehaviour {
     public float checkRadius;
     public LayerMask whatisGround;
     public float jumpforce;
-
-
+    private float jumpTimecounter;
+    public float jumpTime;
+    private bool isJumping;
 
 
     // Use this for initialization
@@ -43,9 +44,31 @@ public class playercontrols : MonoBehaviour {
             xspeed = 0;
         }
         isGrounded = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatisGround);
+        if(xspeed > 0)
+        {
+            transform.eulerAngles = new Vector3(0, 0, 0);
+        }else if (xspeed < 0)
+        {
+            transform.eulerAngles = new Vector3(0, 180, 0);
+        }
         if(isGrounded == true && Input.GetKeyDown(KeyCode.Space))
         {
+            isJumping = true;
+            jumpTimecounter = jumpTime;
             myrb.velocity = Vector2.up * jumpforce;
+        }
+        if (Input.GetKey(KeyCode.Space) && isJumping == true)
+        {
+            myrb.velocity = Vector2.up * jumpforce;
+            jumpTimecounter -= Time.deltaTime;
+        }
+        else
+        {
+            isJumping = false;
+        }
+        if (Input.GetKey(KeyCode.Space))
+        {
+            isJumping = false;
         }
     }
     
