@@ -340,6 +340,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: -11.9333315, y: -4.625, z: -10}
 =======
   m_LocalPosition: {x: -11.950113, y: -1.1200001, z: -10}
@@ -353,6 +354,9 @@ Transform:
 =======
   m_LocalPosition: {x: -12.437648, y: -5.12, z: -10}
 >>>>>>> parent of c610238... IDK
+=======
+  m_LocalPosition: {x: -11.950113, y: -1.1200001, z: -10}
+>>>>>>> parent of 85803a8... I worked
 =======
   m_LocalPosition: {x: -11.950113, y: -1.1200001, z: -10}
 >>>>>>> parent of 85803a8... I worked
@@ -472,6 +476,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -701,6 +706,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of 85803a8... I worked
 =======
 >>>>>>> parent of 85803a8... I worked
 =======
@@ -1143,6 +1150,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &695362851
 GameObject:
   m_ObjectHideFlags: 0
@@ -1295,6 +1303,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of 85803a8... I worked
 =======
 >>>>>>> parent of 85803a8... I worked
 =======
@@ -1461,6 +1471,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 --- !u!1 &1155967264
 <<<<<<< HEAD
+<<<<<<< HEAD
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1613,6 +1624,8 @@ SpriteRenderer:
 --- !u!1 &1191425852
 =======
 >>>>>>> parent of 85803a8... I worked
+=======
+>>>>>>> parent of 85803a8... I worked
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1756,6 +1769,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!33 &1306850205
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -1873,6 +1887,9 @@ SpriteRenderer:
 =======
   m_Sprite: {fileID: 21300000, guid: 11cfd178d0dbc43b48272a5586e19f17, type: 3}
 >>>>>>> parent of 85803a8... I worked
+=======
+  m_Sprite: {fileID: 21300000, guid: 11cfd178d0dbc43b48272a5586e19f17, type: 3}
+>>>>>>> parent of 85803a8... I worked
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1883,6 +1900,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!4 &1542474628
 Transform:
@@ -2271,12 +2289,16 @@ Transform:
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1644587747
+=======
+--- !u!1 &1191425852
+>>>>>>> parent of 85803a8... I worked
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1644587748}
   - component: {fileID: 1644587749}
   m_Layer: 8
@@ -2288,10 +2310,15 @@ GameObject:
 =======
 >>>>>>> parent of 85803a8... I worked
 =======
+=======
+>>>>>>> parent of 85803a8... I worked
   - component: {fileID: 1191425853}
   - component: {fileID: 1191425854}
   m_Layer: 0
   m_Name: sprite_11
+<<<<<<< HEAD
+>>>>>>> parent of 85803a8... I worked
+=======
 >>>>>>> parent of 85803a8... I worked
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2367,6 +2394,7 @@ GameObject:
   - component: {fileID: 1312626731}
   m_Layer: 8
   m_Name: top
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2968,11 +2996,14 @@ GameObject:
 >>>>>>> parent of 85803a8... I worked
 =======
 >>>>>>> parent of 85803a8... I worked
+=======
+>>>>>>> parent of 85803a8... I worked
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!114 &1676735619
@@ -3015,12 +3046,16 @@ MonoBehaviour:
 =======
 --- !u!4 &1312626731
 >>>>>>> parent of 85803a8... I worked
+=======
+--- !u!4 &1312626731
+>>>>>>> parent of 85803a8... I worked
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1312626730}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_LocalPosition: {x: -11.950113, y: -1.1200001, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -3039,12 +3074,22 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1542474625
 >>>>>>> parent of 85803a8... I worked
+=======
+  m_LocalPosition: {x: -3, y: 4.1, z: 0}
+  m_LocalScale: {x: 0.89585567, y: 0.9337228, z: 0.83941674}
+  m_Children: []
+  m_Father: {fileID: 1988697264}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1542474625
+>>>>>>> parent of 85803a8... I worked
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 1764605524}
   - component: {fileID: 1764605525}
@@ -3058,11 +3103,19 @@ GameObject:
   m_Layer: 0
   m_Name: space
 >>>>>>> parent of 85803a8... I worked
+=======
+  - component: {fileID: 1542474628}
+  - component: {fileID: 1542474627}
+  - component: {fileID: 1542474626}
+  m_Layer: 0
+  m_Name: space
+>>>>>>> parent of 85803a8... I worked
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!114 &1676735619
@@ -3109,6 +3162,8 @@ MonoBehaviour:
 --- !u!4 &1764605524
 >>>>>>> parent of 85803a8... I worked
 =======
+=======
+>>>>>>> parent of 85803a8... I worked
 --- !u!210 &1542474626
 SortingGroup:
   m_ObjectHideFlags: 0
@@ -3166,11 +3221,15 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1542474628
+<<<<<<< HEAD
+>>>>>>> parent of 85803a8... I worked
+=======
 >>>>>>> parent of 85803a8... I worked
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3183,6 +3242,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
 =======
+=======
+>>>>>>> parent of 85803a8... I worked
   m_GameObject: {fileID: 1542474625}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -13.64, y: -5.8699994, z: 0}
@@ -3201,6 +3262,9 @@ Transform:
   - {fileID: 175137647}
   m_Father: {fileID: 0}
   m_RootOrder: 1
+<<<<<<< HEAD
+>>>>>>> parent of 85803a8... I worked
+=======
 >>>>>>> parent of 85803a8... I worked
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1599220104
@@ -3220,7 +3284,11 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1764605524
+>>>>>>> parent of 85803a8... I worked
+=======
+--- !u!4 &1599220105
 >>>>>>> parent of 85803a8... I worked
 =======
 --- !u!4 &1599220105
@@ -3229,6 +3297,7 @@ Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1856908972}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
@@ -3246,6 +3315,11 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 6.990566, y: 0.12534595, z: 0}
 >>>>>>> parent of 85803a8... I worked
+=======
+  m_GameObject: {fileID: 1599220104}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 6.990566, y: 0.12534595, z: 0}
+>>>>>>> parent of 85803a8... I worked
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1542474628}
@@ -3257,7 +3331,11 @@ SpriteRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1856908972}
+=======
+  m_GameObject: {fileID: 1599220104}
+>>>>>>> parent of 85803a8... I worked
 =======
   m_GameObject: {fileID: 1599220104}
 >>>>>>> parent of 85803a8... I worked
@@ -3302,7 +3380,10 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 85803a8... I worked
 --- !u!1 &1644587747
 GameObject:
   m_ObjectHideFlags: 0
@@ -3389,6 +3470,8 @@ GameObject:
   - component: {fileID: 1676735619}
   m_Layer: 0
   m_Name: CM vcam1
+<<<<<<< HEAD
+=======
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3455,6 +3538,78 @@ GameObject:
   - component: {fileID: 1764605525}
   m_Layer: 0
   m_Name: sprite_05
+>>>>>>> parent of 85803a8... I worked
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+<<<<<<< HEAD
+--- !u!114 &1676735619
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1676735618}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45e653bab7fb20e499bda25e1b646fea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ExcludedPropertiesInInspector:
+  - m_Script
+  m_LockStageInInspector: 
+  m_StreamingVersion: 20170927
+  m_Priority: 10
+  m_StandbyUpdate: 2
+  m_LookAt: {fileID: 0}
+  m_Follow: {fileID: 1988697264}
+  m_Lens:
+    FieldOfView: 40
+    OrthographicSize: 2
+    NearClipPlane: 0.1
+    FarClipPlane: 5000
+    Dutch: 0
+    LensShift: {x: 0, y: 0}
+  m_Transitions:
+    m_BlendHint: 0
+    m_InheritPosition: 0
+    m_OnCameraLive:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: Cinemachine.CinemachineBrain+VcamActivatedEvent, Cinemachine, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  m_LegacyBlendHint: 0
+  m_ComponentOwner: {fileID: 969534091}
+--- !u!4 &1676735620
+=======
+--- !u!4 &1764605524
+>>>>>>> parent of 85803a8... I worked
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1676735618}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -11.950113, y: -1.1200001, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 969534091}
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1764605523
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1764605524}
+  - component: {fileID: 1764605525}
+  m_Layer: 0
+  m_Name: sprite_05
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3467,6 +3622,10 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1764605523}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+=======
+  m_GameObject: {fileID: 1764605523}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+>>>>>>> parent of 85803a8... I worked
   m_LocalPosition: {x: 9.990565, y: 0.14623708, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
