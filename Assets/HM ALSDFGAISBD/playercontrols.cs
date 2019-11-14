@@ -51,10 +51,7 @@ public class playercontrols : MonoBehaviour {
         {
             xspeed = -3;   
         }
-        else
-        {
-            xspeed = 0;  
-        }
+
         isGrounded = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatisGround);
         if(xspeed > 0)
         {
@@ -70,6 +67,12 @@ public class playercontrols : MonoBehaviour {
             myrb.velocity = Vector2.up * jumpforce;
         }
         if(isGrounded == true&& Input.GetKeyDown(KeyCode.UpArrow))
+        {
+            isJumping = true;
+            jumpTimecounter = jumpTime;
+            myrb.velocity = Vector2.up * jumpforce;
+        }
+        if (isGrounded == true && Input.GetKeyDown(KeyCode.W))
         {
             isJumping = true;
             jumpTimecounter = jumpTime;
