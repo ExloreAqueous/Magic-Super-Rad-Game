@@ -43,6 +43,18 @@ public class playercontrols : MonoBehaviour {
         {
             xspeed = 0;
         }
+        if(Input.GetKey(KeyCode.D))
+        {
+            xspeed = 3;   
+        }
+        else if(Input.GetKey(KeyCode.A))
+        {
+            xspeed = -3;   
+        }
+        else
+        {
+            xspeed = 0;  
+        }
         isGrounded = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatisGround);
         if(xspeed > 0)
         {
