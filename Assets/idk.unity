@@ -589,6 +589,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 29.002258, y: 0.49999994, z: -10}
 =======
   m_LocalPosition: {x: 28.90832, y: 0.99, z: -10}
@@ -599,6 +600,9 @@ Transform:
 =======
   m_LocalPosition: {x: 28.958319, y: 0.49999994, z: -10}
 >>>>>>> parent of 9d20aac... Tower complete
+=======
+  m_LocalPosition: {x: 28.958319, y: 0.49999994, z: -10}
+>>>>>>> parent of 2ef3bec... wait dont ask me
   m_LocalScale: {x: 3.9537776, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -5045,6 +5049,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 29.002258, y: 0.49999994, z: -10}
 =======
   m_LocalPosition: {x: 28.90832, y: 0.99, z: -10}
@@ -5055,6 +5060,9 @@ Transform:
 =======
   m_LocalPosition: {x: 28.958319, y: 0.49999994, z: -10}
 >>>>>>> parent of 9d20aac... Tower complete
+=======
+  m_LocalPosition: {x: 28.958319, y: 0.49999994, z: -10}
+>>>>>>> parent of 2ef3bec... wait dont ask me
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 969534091}
@@ -6415,7 +6423,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 256
   jumpforce: 10
-  jumpTime: 0
+  jumpTime: 0.35
 --- !u!114 &1988697268
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6433,7 +6441,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 256
   jumpforce: 10
-  jumpTime: 30
+  jumpTime: 1
 --- !u!95 &1988697269
 Animator:
   serializedVersion: 3
