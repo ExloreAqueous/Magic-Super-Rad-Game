@@ -57,6 +57,12 @@ public class playercontrols : MonoBehaviour {
             jumpTimecounter = jumpTime;
             myrb.velocity = Vector2.up * jumpforce;
         }
+        if(isGrounded == true&& Input.GetKeyDown(KeyCode.UpArrow))
+        {
+            isJumping = true;
+            jumpTimecounter = jumpTime;
+            myrb.velocity = Vector2.up * jumpforce;
+        }
         if (Input.GetKey(KeyCode.Space) && isJumping == true)
         {
             myrb.velocity = Vector2.up * jumpforce;
