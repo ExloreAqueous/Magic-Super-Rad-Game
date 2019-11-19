@@ -11,7 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/idk.unity
     guid: a92785803d790498fa078a7c0475d3d6
-  - enabled: 0
+  - enabled: 1
     path: Assets/HM ALSDFGAISBD/hmmmm homie.unity
     guid: cd981075f14c04a57a0c61d9dd928855
   m_configObjects: {}

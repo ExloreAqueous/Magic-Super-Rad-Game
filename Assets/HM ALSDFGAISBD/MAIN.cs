@@ -14,4 +14,12 @@ public class MAIN : MonoBehaviour
         Application.Quit();
 
     }
+    public void Setting()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
+    }
+    public void Back()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 2 );
+    }
 }
