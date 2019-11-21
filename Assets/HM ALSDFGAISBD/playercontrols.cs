@@ -54,7 +54,7 @@ public class playercontrols : MonoBehaviour {
         }
 
         isGrounded = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatisGround);
-        if(xspeed > 0)
+        if(xspeed >= 0)
         {
             transform.eulerAngles = new Vector3(0, 0, 0);
         }else if (xspeed < 0)
