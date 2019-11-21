@@ -9,8 +9,16 @@ public class CowBoyController : MonoBehaviour {
     void Update()
     {
         if(Input.GetButton("Horizontal")){
-            PlayerAnimator.SetFloat("RndGen", 1f);
+            PlayerAnimator.SetFloat("RndGen", 0.5f);
         }else if(Input.GetButtonUp("Horizontal")){
+            PlayerAnimator.SetFloat("RndGen", 0f);
+        }
+        if (Input.GetButton("Vertical"))
+        {
+            PlayerAnimator.SetFloat("RndGen", 1f);
+        }
+        else if (Input.GetButtonUp("Vertical"))
+        {
             PlayerAnimator.SetFloat("RndGen", 0f);
         }
     }
