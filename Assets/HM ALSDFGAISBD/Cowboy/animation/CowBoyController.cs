@@ -13,7 +13,15 @@ public class CowBoyController : MonoBehaviour {
         }else if(Input.GetButtonUp("Horizontal")){
             PlayerAnimator.SetFloat("RndGen", 0f);
         }
-        if (Input.GetButton("Vertical"))
+        if (Input.GetKey(KeyCode.DownArrow))
+        {
+            PlayerAnimator.SetFloat("RndGen", 1f);
+        }
+        else if (Input.GetButtonUp("Vertical"))
+        {
+            PlayerAnimator.SetFloat("RndGen", 0f);
+        }
+        if (Input.GetKey(KeyCode.S))
         {
             PlayerAnimator.SetFloat("RndGen", 1f);
         }
