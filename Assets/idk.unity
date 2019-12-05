@@ -1246,6 +1246,34 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &335620153
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 335620154}
+  m_Layer: 8
+  m_Name: Ground
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &335620154
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 335620153}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2, y: -12.4, z: 0}
+  m_LocalScale: {x: 2.2172427, y: 0.9337228, z: 0.83941674}
+  m_Children: []
+  m_Father: {fileID: 486807736}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &378496078
 GameObject:
   m_ObjectHideFlags: 0
@@ -1593,8 +1621,12 @@ SpriteRenderer:
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
+<<<<<<< HEAD
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+=======
+  m_PrefabInternal: {fileID: 0}
+>>>>>>> parent of 046f39b... tf
   serializedVersion: 6
   m_Component:
   - component: {fileID: 486807736}
@@ -1616,8 +1648,12 @@ Animator:
   serializedVersion: 3
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
+<<<<<<< HEAD
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+=======
+  m_PrefabInternal: {fileID: 0}
+>>>>>>> parent of 046f39b... tf
   m_GameObject: {fileID: 486807730}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
@@ -1634,8 +1670,12 @@ Animator:
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
+<<<<<<< HEAD
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+=======
+  m_PrefabInternal: {fileID: 0}
+>>>>>>> parent of 046f39b... tf
   m_GameObject: {fileID: 486807730}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -1653,8 +1693,12 @@ MonoBehaviour:
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
+<<<<<<< HEAD
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+=======
+  m_PrefabInternal: {fileID: 0}
+>>>>>>> parent of 046f39b... tf
   m_GameObject: {fileID: 486807730}
   m_Enabled: 1
   m_Density: 1
@@ -1666,7 +1710,11 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
     oldSize: {x: 41.608437, y: 51.52}
+=======
+    oldSize: {x: 41.600002, y: 51.52}
+>>>>>>> parent of 046f39b... tf
     newSize: {x: 41.600002, y: 51.52}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -1680,8 +1728,12 @@ Rigidbody2D:
   serializedVersion: 4
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
+<<<<<<< HEAD
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+=======
+  m_PrefabInternal: {fileID: 0}
+>>>>>>> parent of 046f39b... tf
   m_GameObject: {fileID: 486807730}
   m_BodyType: 0
   m_Simulated: 1
@@ -1700,8 +1752,12 @@ Rigidbody2D:
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
+<<<<<<< HEAD
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+=======
+  m_PrefabInternal: {fileID: 0}
+>>>>>>> parent of 046f39b... tf
   m_GameObject: {fileID: 486807730}
   m_Enabled: 1
   m_CastShadows: 0
@@ -1711,7 +1767,10 @@ SpriteRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
+<<<<<<< HEAD
   m_RendererPriority: 0
+=======
+>>>>>>> parent of 046f39b... tf
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -1748,8 +1807,12 @@ SpriteRenderer:
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
+<<<<<<< HEAD
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+=======
+  m_PrefabInternal: {fileID: 0}
+>>>>>>> parent of 046f39b... tf
   m_GameObject: {fileID: 486807730}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -11.775, y: -5.33, z: 0}
@@ -1763,8 +1826,12 @@ Transform:
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
+<<<<<<< HEAD
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+=======
+  m_PrefabInternal: {fileID: 0}
+>>>>>>> parent of 046f39b... tf
   m_GameObject: {fileID: 486807730}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -7801,8 +7868,11 @@ GameObject:
   - component: {fileID: 1988697266}
   - component: {fileID: 1988697268}
   - component: {fileID: 1988697269}
+<<<<<<< HEAD
   - component: {fileID: 1988697265}
   - component: {fileID: 1988697262}
+=======
+>>>>>>> parent of 046f39b... tf
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -7831,6 +7901,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+<<<<<<< HEAD
 --- !u!114 &1988697262
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7843,6 +7914,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff0ba56e6baae4b508f0bb3f97ad2f68, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+=======
+>>>>>>> parent of 046f39b... tf
 --- !u!212 &1988697263
 SpriteRenderer:
   m_ObjectHideFlags: 0
