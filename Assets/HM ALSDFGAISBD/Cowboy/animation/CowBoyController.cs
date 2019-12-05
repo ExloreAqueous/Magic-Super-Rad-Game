@@ -15,8 +15,11 @@ public class CowBoyController : MonoBehaviour {
         }
         if (Input.GetButton("Vertical"))
         {
+<<<<<<< HEAD
             PlayerAnimator.SetFloat("RndGen", 1f);
         }else if(Input.GetButtonUp("Horizontal")){
+=======
+>>>>>>> parent of 0ac77d1... rt
             PlayerAnimator.SetFloat("RndGen", 1f);
         }
         else if (Input.GetButtonUp("Vertical"))
