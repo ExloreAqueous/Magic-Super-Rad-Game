@@ -44,17 +44,6 @@ BlendTree:
     m_Mirror: 0
   - serializedVersion: 2
     m_Motion: {fileID: 7400000, guid: 2e56e9ec65707423fab5bbb1626832a8, type: 2}
-<<<<<<< HEAD
-    m_Threshold: 0.5
-    m_Position: {x: 0, y: 0}
-    m_TimeScale: 1
-    m_CycleOffset: 0
-    m_DirectBlendParameter: RndGen
-    m_Mirror: 0
-  - serializedVersion: 2
-    m_Motion: {fileID: 7400000, guid: f74ea5075443a4830a9241dc4e3d7581, type: 2}
-=======
->>>>>>> parent of b17d64e... fgf
     m_Threshold: 1
     m_Position: {x: 0, y: 0}
     m_TimeScale: 1
@@ -118,34 +107,6 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
-<<<<<<< HEAD
-=======
---- !u!1102 &1102485952512751674
-AnimatorState:
-  serializedVersion: 5
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_Name: WALK
-  m_Speed: 1
-  m_CycleOffset: 0
-  m_Transitions: []
-  m_StateMachineBehaviours: []
-  m_Position: {x: 50, y: 50, z: 0}
-  m_IKOnFeet: 0
-  m_WriteDefaultValues: 1
-  m_Mirror: 0
-  m_SpeedParameterActive: 0
-  m_MirrorParameterActive: 0
-  m_CycleOffsetParameterActive: 0
-  m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 2e56e9ec65707423fab5bbb1626832a8, type: 2}
-  m_Tag: 
-  m_SpeedParameter: 
-  m_MirrorParameter: 
-  m_CycleOffsetParameter: 
-  m_TimeParameter: 
->>>>>>> parent of b17d64e... fgf
 --- !u!1102 &1102867496158341874
 AnimatorState:
   serializedVersion: 5
@@ -219,12 +180,9 @@ AnimatorStateMachine:
   - serializedVersion: 1
     m_State: {fileID: 1102485952512751674}
     m_Position: {x: 600, y: 456, z: 0}
-<<<<<<< HEAD
   - serializedVersion: 1
     m_State: {fileID: 1102360257025366804}
     m_Position: {x: 635, y: 521, z: 0}
-=======
->>>>>>> parent of b17d64e... fgf
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
